@@ -71,5 +71,4 @@ def identify_token_get():  # noqa: E501
 
     :rtype: int64
     """
-    user=User()
-    return user.id()
+    return 'do some magic!'
